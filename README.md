@@ -22,7 +22,7 @@ ChatterBox provides a rich and secure real-time communication experience:
 
 * 🚀 **Real-Time Messaging:** Engage in instant conversations with friends and peers, all in real-time, powered by WebSockets.
 * 🔒 **Secure User Authentication:** Rest assured knowing your chats are protected by a robust authentication and authorization system.
-* 📱 **Responsive Design:** Whether you're on a desktop or mobile device, ChatFlow adapts effortlessly to provide a consistent and intuitive user experience.
+* 📱 **Responsive Design:** Whether you're on a desktop or mobile device, ChatterBox adapts effortlessly to provide a consistent and intuitive user experience.
 * 🎨 **Customizable Profiles:** Personalize your profile to reflect your unique personality and style.
 
 ---
@@ -105,7 +105,7 @@ Ensure you have the following installed on your system:
 
 ## 🛣️ Roadmap & Future Enhancements
 
-We're constantly looking to improve ChatFlow! Here are some planned features and enhancements:
+We're constantly looking to improve ChatterBox! Here are some planned features and enhancements:
 
 * 🖼️ **Image & File Sharing:** Implement functionality for sending images and other files in chats.
 * 🔔 **Notifications:** Add real-time notifications for new messages or mentions.
