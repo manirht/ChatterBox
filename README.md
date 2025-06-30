@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>ChatterBox 💬🚀</h1>
   <p>Real-Time Chat Application</p>
 </div>
