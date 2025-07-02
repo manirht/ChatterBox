@@ -6,4 +6,3 @@ backend/config/config.env
 frontend/.env
 # For socket specifically (if you use .env there):
 socket/.env
-uploads/
