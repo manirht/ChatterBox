@@ -15,7 +15,7 @@ const messengerRoute = require('./routes/messengerRoute');
 
 dotenv.config({path: 'backend/config/config.env'});
 
-app.use(cors({origin: 'http://localhost:3000'}));
+app.use(cors({origin: 'http://localhost:4000'}));
 
 console.log(process.env.DATABASE_URL);
 
