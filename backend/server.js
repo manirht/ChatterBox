@@ -24,7 +24,7 @@ app.use(cookieParser());
 app.use('/api/messenger', authRouter);
 app.use('/api/messenger',messengerRoute);
 
-const PORT = 5001
+const PORT = process.env.PORT;
 
 app.get('/', (req, res)=>{
     res.send('This is from backend');
