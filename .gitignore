@@ -1,1 +1,9 @@
 node_modules
+.env
+# For backend specifically:
+backend/config/config.env
+# For frontend specifically (if you use .env there):
+frontend/.env
+# For socket specifically (if you use .env there):
+socket/.env
+uploads
